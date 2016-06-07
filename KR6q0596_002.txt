@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:54:35.349642
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:05
 #+TITLE: 斗南暐禪師語錄
 #+PROPERTY: CBETA_ID J40nB488
 #+PROPERTY: ID KR6q0596
@@ -13,7 +13,7 @@
  斗南暐禪師語錄卷之中¶
 侍者法權記錄¶
 
-頌古¶
+* 頌古¶
 
 「世尊初生。」¶
 
